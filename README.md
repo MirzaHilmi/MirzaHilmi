@@ -25,9 +25,9 @@
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,go,js,php,laravel,supabase,redis,mysql,postgres,git,docker,vscode)](https://skillicons.dev)
-### 📊 Stats
+### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MirzaHilmi&theme=discord_old_blurple)](https://git.io/streak-stats)<br>
-![Mirza's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirzaHilmi&theme=discord_old_blurple&show_icons=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaHilmi&theme=discord_old_blurple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=MirzaHilmi&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MirzaHilmi&theme=discord_old_blurple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaHilmi&langs_count=10&layout=compact)
 
