@@ -27,7 +27,7 @@
 [![Tech Stack](https://skillicons.dev/icons?i=java,go,js,php,laravel,supabase,redis,mysql,postgres,git,docker)](https://skillicons.dev)
 
 ## 🧰 Tools
-[![Tools](https://skillicons.dev/icons?i=idea,neovim,vscode,bash,powershell)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=idea,neovim,vscode,postman,bash,powershell)](https://skillicons.dev)
 ### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=MirzaHilmi&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true)<br/>
