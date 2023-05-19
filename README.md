@@ -2,10 +2,10 @@
 
 ## 🧐 About Me
 
-🏫 &nbsp; Currently College Freshman at Faculty of Computer Science, Brawijaya University<br>
-🔭 &nbsp; I’m currently learning about Go, PHP, and Java Programming Language<br>
+🏫 &nbsp; College freshman majoring in Information Technology, at the Faculty of Computer Science, Brawijaya University.<br>
+🔭 &nbsp; I am currently learning about Go, PHP, and Java Programming Languages<br>
 ✨ &nbsp; Most of my projects are available on [Github](https://github.com/MirzaHilmi?tab=repositories)<br>
-🏄‍♂️ &nbsp; When I am free, I do adventure, swimming, and culinary!<br>
+🏄‍♂️ &nbsp; When I am free, I enjoy swimming, adventure and exploring culinary delights!<br>
 
 ## 📫 Find me elsewhere
 <p>
