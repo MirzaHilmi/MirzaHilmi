@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mirza Hilmi <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px"></img></h1>
+<h1 align="center">Hi, I am Mirza Hilmi <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px"></img></h1>
 
 ## 🧐 About Me
 
