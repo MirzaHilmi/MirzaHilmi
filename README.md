@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I am Mirza Hilmi <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px"></img></h1>
+<h1 align="center">Hi, I am Mirza Hilmi 
+    <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px"/>
+</h1>
 
 ## 🧐 About Me
 
@@ -9,18 +11,18 @@
 
 ## 📫 Find me elsewhere
 <p>
-<a href="https://www.instagram.com/mirzaahilmi">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/mirzahilmi/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:exquisitemirza@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://discordapp.com/users/456276488963096596">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+    <a href="https://www.instagram.com/mirzaahilmi">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mirzahilmi/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:exquisitemirza@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://discordapp.com/users/456276488963096596">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
 </p>
 
 ## 💻 Tech Stack
@@ -30,7 +32,15 @@
 [![Tools](https://skillicons.dev/icons?i=idea,neovim,vscode,postman,bash,powershell)](https://skillicons.dev)
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&theme=discord_old_blurple&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MirzaHilmi&langs_count=15&layout=compact)
+<a href="https://github.com/MirzaHilmi/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&rank_icon=github&theme=discord_old_blurple&show_icons=true"/>
+</a>
+
+<a href="https://github.com/MirzaHilmi/">
+    <img src="https://streak-stats.demolab.com/?user=MirzaHilmi&theme=discord_old_blurple&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border"/>
+</a>
+
+<a href="https://github.com/MirzaHilmi/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MirzaHilmi&langs_count=10&layout=compact"/>
+</a>
 
