@@ -33,7 +33,7 @@
 ### 📊 GitHub Stats
 
 <a href="https://github.com/MirzaHilmi/">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&rank_icon=github&theme=discord_old_blurple&show_icons=true"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=M6irzaHilmi&rank_icon=github&theme=discord_old_blurple&show_icons=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/MirzaHilmi/">
