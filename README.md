@@ -26,7 +26,8 @@
 </p>
 
 ## 💻 Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=java,go,js,php,laravel,supabase,redis,mysql,postgres,git,docker)](https://skillicons.dev)
+[![Tech Stack 1](https://skillicons.dev/icons?i=java,go,js,php,laravel,supabase)](https://skillicons.dev)
+[![Tech Stack 2](https://skillicons.dev/icons?i=redis,mysql,postgres,git,docker)](https://skillicons.dev)
 
 ## 🧰 Tools
 [![Tools](https://skillicons.dev/icons?i=idea,neovim,vscode,postman,bash,powershell)](https://skillicons.dev)
