@@ -33,15 +33,15 @@
 [![Tools](https://skillicons.dev/icons?i=idea,neovim,vscode,postman,bash,powershell)](https://skillicons.dev)
 ### 📊 GitHub Stats
 
-<a href="https://github.com/MirzaHilmi/">
+<a href="https://github.com/MirzaHilmi/" style="display: block">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&theme=discord_old_blurple&show_icons=true&count_private=true"/>
 </a>
 
-<a href="https://github.com/MirzaHilmi/">
+<a href="https://github.com/MirzaHilmi/" style="display: block">
     <img src="https://streak-stats.demolab.com/?user=MirzaHilmi&theme=discord_old_blurple&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border"/>
 </a>
 
-<a href="https://github.com/MirzaHilmi/">
+<a href="https://github.com/MirzaHilmi/" style="display: block">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MirzaHilmi&langs_count=10&layout=compact"/>
 </a>
 
