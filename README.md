@@ -34,14 +34,17 @@
 ### 📊 GitHub Stats
 
 <a href="https://github.com/MirzaHilmi/">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&theme=discord_old_blurple&show_icons=true&count_private=true" style="display: block;"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MirzaHilmi&theme=discord_old_blurple&show_icons=true&count_private=true"/>
 </a>
+<br>
 
 <a href="https://github.com/MirzaHilmi/">
-    <img src="https://streak-stats.demolab.com/?user=MirzaHilmi&theme=discord_old_blurple&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border" style="display: block;"/>
+    <img src="https://streak-stats.demolab.com/?user=MirzaHilmi&theme=discord_old_blurple&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border"/>
 </a>
+<br>
 
 <a href="https://github.com/MirzaHilmi/">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MirzaHilmi&langs_count=10&layout=compact" style="display: block;"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MirzaHilmi&langs_count=10&layout=compact"/>
 </a>
+<br>
 
