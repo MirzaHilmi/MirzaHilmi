@@ -17,5 +17,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          template: classic
+          base: ""
+          config_timezone: Asia/Jakarta
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
